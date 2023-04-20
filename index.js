@@ -51,34 +51,3 @@ inquirer
       console.log("successfully created your README!");
     });
   });
-
-// let array = [1, 2, 3];
-// console.log(array[1]);
-// let object = {
-//   num1: 1,
-//   num2: 2,
-// };
-// console.log(object.num2);
-
-// let ans = {
-//   projectTitle: "s",
-//   description: "s",
-//   installation: "s",
-//   usage: "s",
-//   credits: "s",
-//   license: "GNU AGPLv3",
-// };
-// console.log(ans.projectTitle);
-
-// let ans2 = {
-//   projectTitle,
-//   description,
-//   installation,
-//   usage,
-//   credits,
-//   license,
-//   tests,
-//   emailQuestions,
-// };
-
-

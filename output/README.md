@@ -1,38 +1,37 @@
-# Anna
+# Anna's README generator
   ![github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-      ## Description
-      jklasfkajsdnfkjsdnf
+## Description
+sdkjfnad
       
       
-      ## Table of Contents 
+## Table of Contents 
 
-        * [Installation](#installation)
+* [Installation](#installation)
 
-        * [Usage](#usage)
+* [Usage](#usage)
 
-        
+ 
 * [License](#license)
 
 
-        * [Contributing](#contributing)
-
-        * [Tests](#tests)
+* [Contributing](#credits)
 
 
-      ## Installation
-      jknfaksdjnfsjkdnfsad
+
+## Installation
+ coding speak
 
 
-      ## Usage
-      jsdnfkjasnmdlkasmdla;sd
+## Usage
+ipsum
 
 
-      ## Credits
-      ksadfmdlasdkmfklsadm
+## Credits
+www.github.com
 
 
-      ## License
-      ![github license](https://img.shields.io/badge/license-MIT-blue.svg)
+## License
+MIT
       
       
